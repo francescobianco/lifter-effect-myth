@@ -29,7 +29,7 @@ Il fenomeno permette di sollevare oggetti leggeri sfidando la gravità sfruttand
 ## La sfida
 
 Da quanto visto non dovrebbe essere impossibile costruire un overcraft capacitivo che usando un micro generatore di alta tenzione continua,
-facilemente reperibile su Aliexpress e una struttura ad-hoc. Si dovrebbe poter rendere il tutto di volo autonomo o di sollevamento dalla superfice e quindi abbattere gli attriti di contatto con essa.
+facilemente reperibile su Aliexpress, montato su una struttura ad-hoc tale per cui tutto sia autonomo. In questo modo si dovrebbe poter creare un volo autonomo o di sollevamento dalla superfice e quindi abbattere gli attriti di contatto con essa.
 
 > FACCIAMOLO!!!!!
 
